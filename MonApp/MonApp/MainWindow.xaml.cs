@@ -20,7 +20,7 @@ namespace MonApp
 	/// </summary>
 	public partial class MainWindow : Window
 		{
-		//v1
+		//v2
 		public MainWindow()
 			{
 			InitializeComponent();
